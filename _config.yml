@@ -5,11 +5,11 @@ url: "https://dulalsaurab.github.io/"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type Theme
+  title: Saurab Dulal
   avatar: assets/img/avatar.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  description: "The best way to experiment the world is to experiment yourself" # used by search engines
 
   # Header and footer text
   header_text: >
@@ -22,7 +22,7 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: dulal.saurab@gmail.com
   behance:
   bitbucket:
   dribbble:
@@ -32,14 +32,14 @@ theme_settings:
   github: "dulalsaurab/type-theme"
   google_plus:
   instagram:
-  linkedin:  # Full URL
+  linkedin:  https://www.linkedin.com/in/dulalsaurab/
   pinterest:
-  reddit:
+  reddit: 
   soundcloud:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "twitter"
+  twitter: "dulalsaurab"
   wordpress:
   youtube:
 
