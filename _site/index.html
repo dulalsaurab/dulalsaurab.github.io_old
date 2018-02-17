@@ -8,9 +8,7 @@
    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:400,700|Material+Icons" />
    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" />
    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-   <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
-   <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
-   <script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+   <link href="https://fonts.googleapis.com/css?family=Cabin+Sketch" rel="stylesheet">
    <!-- end of CSS include section -->
    <!-- custom css -->
    <style>
@@ -21,16 +19,30 @@
       border-radius: 50%;
       height: 200px;
       }
+      .mynav {
+
+        color: #0984e3 !important;
+      
+      }
+      a:link {
+        /*color: #0984e3 !important;*/
+      } 
+      a:hover {
+        color: #e84118 !important;
+      }
+      .slink{
+        color: #33d9b2 !important;
+      }
    </style>
    <!-- end of custom css -->
 </head>
-<body>
+<body background-color="blue">
    <!-- Main jumbotron for a primary marketing message or call to action -->
    <!-- <div class="jumbotron"> -->
       <div class="container" style="margin-top: 20px;">
-         <div style="font-size:2.2em; border-radius: 50%; color:#00cec9">
-                    <a href="/"><i class="fas fa-home"></i></a>
-                    <a href="/pages/saurabdulal/" class="pull-right"><i class="fas fa-user"></i></a>
+         <div style="font-size:2.2em; border-radius: 50%;" >
+                    <a href="/" style="color: #0984e3;"><i class="fas fa-home"></i></a>
+                    <a href="/pages/saurabdulal/" class="pull-right" style="color: #0984e3;"><i class="fas fa-user"></i></a>
         </div>
          <div class="row">
             <div class="col-md-2">
@@ -46,17 +58,17 @@
                   <img src ="/assets/img/sdulal.jpg" class="img-circle" alt="saurabdulal">
                </div>
                <div class="text-center" style="margin-top: 20px;">
-                  <div style="font-size:2.2em; border-radius: 50%; color:#00cec9">
-                     <a href="https://twitter.com/dulalsaurab" target="_blank"><i class="fab fa-twitter" style="margin: 3px;"></i></a>
-                     <a href="https://github.com/dulalsaurab" target="_blank"><i class="fab fa-github" style="margin: 3px;"></i></a>
-                     <a href="mailto:dulal.saurab@gmail.com" target="_blank"><i class="fas fa-at" style="margin: 3px;"></i></a>
-                     <a href="https://www.linkedin.com/in/dulalsaurab/" target="_blank"><i class="fab fa-linkedin-in" style="margin: 3px;"></i></a>
+                  <div style="font-size:2.0em; border-radius: 50%;" >
+                     <a href="https://twitter.com/dulalsaurab" target="_blank" class="slink"><i class="fab fa-twitter" style="margin: 3px;"></i></a>
+                     <a href="https://github.com/dulalsaurab" target="_blank" class="slink"><i class="fab fa-github" style="margin: 3px;"></i></a>
+                     <a href="mailto:dulal.saurab@gmail.com" target="_blank" class="slink"><i class="fas fa-at" style="margin: 3px;"></i></a>
+                     <a href="https://www.linkedin.com/in/dulalsaurab/" target="_blank" class="slink"><i class="fab fa-linkedin-in" style="margin: 3px;"></i></a>
                   </div>
                </div>
                <div class="text-center">
                   <blockquote class="blockquote">
                      <div class="blockquote-footer">
-                        <h1>
+                        <h1 style="color: #b2bec3;">
                         Hello, I am Saurab Dulal
                         <h1>
                      </div>
@@ -65,12 +77,18 @@
                   distributed computing and content centric networking. Currently, I am a member of Netlab at the university
                   and I am involved in NDN(Name Data Networking) research project</p>
                </div>
-               <div class="text-center">
+               <hr />
+               <div class="text-center mynav"><b>| <a href="#">blog</a> | <a href="#">poems</a> | <a href="#">computer science</a> | <a href="#">contact</a> | <a href="#">Nepal</a> |</b></div>
+               <hr />
+               <!-- <div class="text-center">
                   <h4><p> Wanna view my favorite movies ? <a href="/pages/saurabdulal/favmovies" > click here </a> </p></h4>
-               </div>
+               </div> -->
             </div>
             <div class="col-md-2">
             </div>
          </div>
       </div>
+   <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
+   <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+   <script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
 </body>
