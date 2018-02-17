@@ -5,7 +5,11 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description>The best way to experiment the world is to experiment yourself</description>
+<<<<<<< HEAD
     <pubDate>Sat, 17 Feb 2018 16:50:15 -0600</pubDate>
+=======
+    <pubDate>Sat, 17 Feb 2018 16:43:58 -0600</pubDate>
+>>>>>>> fa6b8c5f1915c7915312e483ac8e3584992285bd
     
       <item>
         <title>Sample Post</title>
