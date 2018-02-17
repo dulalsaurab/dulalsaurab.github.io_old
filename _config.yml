@@ -18,7 +18,7 @@ theme_settings:
      <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
   header_text_feature_image:
   footer_text: >
-   © <a href="matilo:dulal.saurab@gmail.com" >Saurab Dulal | </a> with <a href="https://github.com/rohanchandra/type-theme">Thanks: Type Theme</a>
+   © <a href="matilo:dulal.saurab@gmail.com" >Saurab Dulal | 2018</a>  <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
 
   # Icons
   rss: false
