@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: ""
-url: "https://dulalsaurab.github.io/"
+baseurl: "/type-theme"
+url: "https://rohanchandra.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -29,7 +29,7 @@ theme_settings:
   facebook:
   flickr:
   gitlab:
-  github: "dulalsaurab/type-theme"
+  github: "rohanchandra/type-theme"
   google_plus:
   instagram:
   linkedin:  # Full URL
