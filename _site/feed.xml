@@ -5,25 +5,21 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description>The best way to experiment the world is to experiment yourself</description>
-<<<<<<< HEAD
-    <pubDate>Sat, 17 Feb 2018 16:50:15 -0600</pubDate>
-=======
-    <pubDate>Sat, 17 Feb 2018 16:43:58 -0600</pubDate>
->>>>>>> fa6b8c5f1915c7915312e483ac8e3584992285bd
+    <pubDate>Sun, 18 Feb 2018 00:05:38 -0600</pubDate>
     
       <item>
-        <title>Sample Post</title>
-        <link>/2018/02/20/sample-post.html</link>
-        <guid isPermaLink="true">/2018/02/20/sample-post.html</guid>
-        <description>&lt;p&gt;hello world nepal&lt;/p&gt;
+        <title>test2</title>
+        <link>/test2/sample-post/</link>
+        <guid isPermaLink="true">/test2/sample-post/</guid>
+        <description>
 </description>
         <pubDate>Tue, 20 Feb 2018 00:00:00 -0600</pubDate>
       </item>
     
       <item>
         <title>Markdown CheatSheet</title>
-        <link>/2018/02/20/mdcheat.html</link>
-        <guid isPermaLink="true">/2018/02/20/mdcheat.html</guid>
+        <link>/test1/mdcheat/</link>
+        <guid isPermaLink="true">/test1/mdcheat/</guid>
         <description>&lt;p&gt;&lt;strong&gt;&lt;em&gt;Origianally compiled by:&lt;/em&gt;&lt;/strong&gt; &lt;a href=&quot;https://github.com/tchapi/markdown-cheatsheet.git&quot;&gt;https://github.com/tchapi/markdown-cheatsheet.git&lt;/a&gt;&lt;/p&gt;
 &lt;hr /&gt;
 
@@ -311,9 +307,34 @@ Content Cell  | Content Cell
       </item>
     
       <item>
+        <title>Street Children's Diary - Kathmandu Nepal</title>
+        <link>/blog/street-childrens-diary-kathmandu-nepal/</link>
+        <guid isPermaLink="true">/blog/street-childrens-diary-kathmandu-nepal/</guid>
+        <description>&lt;p&gt;Once in my childhood, I asked my father the meaning of poverty when I didn’t get money for a picnic. He replied, “Poverty is not just scarce of money, it’s perfectly a relative word that differs from person to person”. He further said, “Poverty means basically inferiority or scarcity; you are in scarce of money so you think yourself poor, that’s it!”&lt;/p&gt;
+
+&lt;p&gt;Today I feel that poverty is only the reason for a person to be evil or sapiens. Today I want to share some views of the children I met in the capital city of Nepal i.e. Kathmandu. Kathmandu is the city of hope and opportunities. Yearly, thousands of people enter the city in search of quality life and better education but there are very fewer people who get success in their aim but what about those people who do not succeed? What about their children who come along with them? And what about the life of those people? I feel from the inner core of my heart this helpless situation is the reason for the creation of evil practice in the society. I don’t want to blame those helpless people but to the situation that makes them evil as stated above i.e. due to scarcity. We all know who is responsible for this situation and talking about their responsibility will be worthless. Hungry stomach never thinks about country neither it thinks about tomorrow.&lt;/p&gt;
+
+&lt;p&gt;Once I met a child near Newroad gate while I was traveling back to home from college. He was begging for one rupee. First, I didn’t care but when he pleaded I gave him one rupee. With a new hope and innocent smile, he ran away. Next day I found the same boy having drugs on Tundhikhel ground. followed him and eventually caught him. I scolded him meanwhile I felt mercy on him seeing his tears. After than I asked him his name, he replied – Dorje. He was 11 years old all the way from mid-western part of the country (Dolpa) like thousands of others who came to Kathmandu 3 years ago with his parents with the hope for a better state of quality of life. Presently he doesn’t know where his parents are and he told he don’t even care about them. I asked him why you don’t care about them? He replied that when he came to Kathmandu his parents said him that now onwards they will have a better life in Kathmandu and they will send him to a better school for their better future. After he came to Kathmandu as a child just 11 years old was excited, but his excitement ended soon when he found his whole family sleeping in street for half part of the very week of their arrival. They just ate nearly nothing but their hope, dreams, and future plans and eating even very little food was a day dream. Their struggle stepped into the third day he eventually saw his parents quite frustrating and physically as well as mentally tired. The fourth day with the rise of the sun he woke up what seem to shatter him more, suddenly in the busy street he found his parents were already gone leaving him alone.&lt;/p&gt;
+
+&lt;p&gt;With no hope, he started his life with street children and he said me that the major work of all street children like him in Kathmandu is stealing and begging and using the maximum money they get in using drugs. According to him, the drug is the right chemical substance with which they can eat any sorts of cheap food they get thrown in street or even if they don’t get food because it makes them so dozy and unconscious whole day that they could survive even without food. He says he wanted to earn a lot of money in his future but he didn’t know the way to earn it. At last, he said me, “Are you going to give me some pennies?” Laughingly after a while, he ran away without taking any money.&lt;/p&gt;
+
+&lt;p&gt;After a month of this incident, I again met other interesting groups of street children near one river (locally called Dhobikhola, one of the most polluted river in Kathmandu after Bagmati, near Sattalle, 2 km from Chabahil, but these children were quite different children than those I met in Newroad. They were using some scientific method for fishing. In a developed nation, it is called electrical fishing. These children had wire, joined in a metallic plate which was attached to a wooden stick. After dipping the wooden stick in the water the fish got electric shock along the wire through the plate with high voltage that came from the street AC supply. They used it to catch a lot of fish. One of the active members of that fishing group Surendra Lama said that previous day they have caught over 50 kg fish in the same river. They sold those fish in the market and got some money. He further said that his parents were very poor and could not full fill their basic needs (food, cloth, and shelter). After doing this job, he has been able to full fill his part of basic needs. He said he had never gone to school and neither have got any formal education.&lt;/p&gt;
+
+&lt;p&gt;I asked him how he knew this technique. He smilingly replied, “What do you think we street children don’t know anything?” I felt rather this was a simple thing for me as or us. But this is not simple for those who have not been to school for a single day. We learned science very early in school and are still afraid to plug in a simple wire, but these children know to handle complex wire connections, it was really amazing.&lt;/p&gt;
+
+&lt;p&gt;Our country has just come out from long civil war. Most of the energetic youth are out of country and tomorrow’s generation i.e. these children are still facing such struggling situation of full filling basic needs. These two examples of children Dorje and Surendra might help us to understand the future of Nepal and the present situation on them.&lt;/p&gt;
+
+&lt;p&gt;The above characters that I am trying to show are of completely different situation although facing a common problem. The common problem is that both of the characters are hungry. Their sense of hunger is not only for food but is for their life. Happiness shatters at their door. They hear intolerable words which matter a lot. They sleep in the bed of thorns of reality keeping pillow of tears. They are just slums and khate (खाते) for educated individuals. They are also a fund collecting machines for many governmental and nongovernmental organizations.&lt;/p&gt;
+
+&lt;p&gt;Wearing a clean and creased dress and watching them from a semi-dark scenario that is behind the looking glass of BMW’s and VOLSWOGEANS won’t let anyone realize their state of existence. Although they are grown up around us, their world varies a lot from our well full filled sophisticated life. They just live in the third world around us. Their journey is a story of long pain hidden in the dendrites(Adhesive) which they inhale. Their shabby shoes, torn dress, dirty skin, unconscious eyes and a hand full of plastics marks their identity. Our busy life and aim are making us so conscious that we are dimming away from these unconscious members of our own society but truth is always behind us and the way through which we are moving is leading us to an unknown state of reality of our own people.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 29 Dec 2014 00:00:00 -0600</pubDate>
+      </item>
+    
+      <item>
         <title>Sample post</title>
-        <link>/2014/11/30/sample-post.html</link>
-        <guid isPermaLink="true">/2014/11/30/sample-post.html</guid>
+        <link>/sample-post/</link>
+        <guid isPermaLink="true">/sample-post/</guid>
         <description>&lt;p&gt;Consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. Praesent et diam eget libero egestas mattis sit amet vitae augue. Nam tincidunt congue enim, ut porta lorem lacinia consectetur. Donec ut libero sed arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut gravida lorem.&lt;/p&gt;
 
 &lt;ul&gt;
@@ -341,8 +362,8 @@ Content Cell  | Content Cell
     
       <item>
         <title>Feature images</title>
-        <link>/2014/11/29/feature-images.html</link>
-        <guid isPermaLink="true">/2014/11/29/feature-images.html</guid>
+        <link>/feature-images/</link>
+        <guid isPermaLink="true">/feature-images/</guid>
         <description>&lt;p&gt;This is an example of a post which includes a feature image specified in the front matter of the post. The feature image spans the full-width of the page, and is shown with the title on permalink pages.&lt;/p&gt;
 </description>
         <pubDate>Sat, 29 Nov 2014 00:00:00 -0600</pubDate>
@@ -350,8 +371,8 @@ Content Cell  | Content Cell
     
       <item>
         <title>Markdown and HTML</title>
-        <link>/2014/11/28/markdown-and-html.html</link>
-        <guid isPermaLink="true">/2014/11/28/markdown-and-html.html</guid>
+        <link>/markdown-and-html/</link>
+        <guid isPermaLink="true">/markdown-and-html/</guid>
         <description>&lt;p&gt;Jekyll supports the use of &lt;a href=&quot;http://daringfireball.net/projects/markdown/syntax&quot;&gt;Markdown&lt;/a&gt; with inline HTML tags which makes it easier to quickly write posts with Jekyll, without having to worry too much about text formatting. A sample of the formatting follows.&lt;/p&gt;
 
 &lt;p&gt;Tables have also been extended from Markdown:&lt;/p&gt;

@@ -84,3 +84,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
 future: true
+permalink: /:categories/:title/
+

@@ -1,10 +1,11 @@
 ---
 layout: page
-title: About
 permalink: /about/
-feature-img: "assets/img/sample_feature_img_2.png"
----
+feature-img: "assets/img/abstract.png"
 
+---
+About me
+=============
 A child dreamed of being a cricketer ended creating a first English cricketing blog [www.CricketConcern.com](http://www.cricketconcern.com/)
 in Nepal, back in 2007. After realizing that the physics and the cosmology was not my dish but rather 
 neighbors' fragrance, I dove into computer science and started my career as a retail data analyst. 
