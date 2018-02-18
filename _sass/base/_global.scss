@@ -86,8 +86,8 @@ dd {
     margin-left: 2em;
 }
 p, ol, ul, dl, .math-display {
-  line-height: 1.5;
-  margin-bottom: 1em;
+  line-height: 1.75;
+  margin-bottom: 1.5em !important;
 }
 // KaTeX math display
 .math-display {
@@ -126,4 +126,9 @@ img[align=left] {
 }
 img[align=right] {
   margin-left: 3%;
+}
+
+br {
+   display: block;
+   margin: 120px 0;
 }
