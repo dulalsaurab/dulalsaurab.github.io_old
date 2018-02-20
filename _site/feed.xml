@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description>The best way to experiment the world is to experiment yourself</description>
-    <pubDate>Mon, 19 Feb 2018 23:39:44 -0600</pubDate>
+    <pubDate>Mon, 19 Feb 2018 23:50:37 -0600</pubDate>
     
       <item>
         <title>test2</title>
@@ -310,7 +310,7 @@ Content Cell  | Content Cell
         <title>Reliable data transfer using UDP</title>
         <link>/computer/science/reliable-data-transfer-using-udp/</link>
         <guid isPermaLink="true">/computer/science/reliable-data-transfer-using-udp/</guid>
-        <description>&lt;h1 id=&quot;reliable--data----transfer----using---udp&quot;&gt;Reliable  data    transfer    using   UDP&lt;/h1&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;https://github.com/dulalsaurab/Reliable-data-transfer-using-UDP&quot;&gt;&lt;strong&gt;Github Project Repo&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
 
@@ -432,6 +432,8 @@ on loop. Once the selection is done, the server program is executed first, and u
   &lt;li&gt;Logging of all the process in the file for error tracking and handling&lt;/li&gt;
   &lt;li&gt;Addition of some security during the transfer process&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/dulalsaurab/Reliable-data-transfer-using-UDP&quot;&gt;&lt;strong&gt;Github Project Repo&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
 
