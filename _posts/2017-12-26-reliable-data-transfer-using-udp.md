@@ -2,8 +2,8 @@
 layout: post
 title: Markdown CheatSheet
 tags: [UPD, TCP, Network, Data Transfer, Python]
-categories: Computer Science
-title: Reliable data transfer using UDP
+categories: ComputerScience
+title: Reliable data transfer using UDP 
 author: Saurab Dulal
 description: 
 created: 2017/12/26 18:21:34
@@ -13,9 +13,7 @@ post_name: street-childrens-diary-kathmandu-nepal
 post_type: post
 ---
 
-
-# Reliable  data    transfer    using   UDP
-
+ [**Github Project Repo**](https://github.com/dulalsaurab/Reliable-data-transfer-using-UDP)
 
 ## Introduction
 
@@ -142,6 +140,8 @@ Now, on the basis of the selected method, server start sending the packets, eith
 - The process is not parallel enough, such as when the client is in the process of packet/s verification at some intermediate point, the server remains idle in such case. Thus, additional parallelism and functionalities can be introduced to maximize the efficiency of server and client.
 - Logging of all the process in the file for error tracking and handling
 - Addition of some security during the transfer process
+
+[**Github Project Repo**](https://github.com/dulalsaurab/Reliable-data-transfer-using-UDP)
 
 ## References
 
