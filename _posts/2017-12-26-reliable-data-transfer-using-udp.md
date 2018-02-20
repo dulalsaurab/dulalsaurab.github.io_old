@@ -2,7 +2,11 @@
 layout: post
 title: Markdown CheatSheet
 tags: [UPD, TCP, Network, Data Transfer, Python]
+<<<<<<< HEAD
 categories: ComputerScience
+=======
+categories: Computer Science
+>>>>>>> 650d4de738396a908d180f295ff49f09f8ebdc4b
 title: Reliable data transfer using UDP 
 author: Saurab Dulal
 description: 
