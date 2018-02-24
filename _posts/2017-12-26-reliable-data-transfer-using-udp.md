@@ -12,6 +12,10 @@ comment_status: open
 post_name: street-childrens-diary-kathmandu-nepal
 post_type: post
 ---
+<style>
+body {
+text-align: justify}
+</style>
 
  [**Github Project Repo**](https://github.com/dulalsaurab/Reliable-data-transfer-using-UDP)
 

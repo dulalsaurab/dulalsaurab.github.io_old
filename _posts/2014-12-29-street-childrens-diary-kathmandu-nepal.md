@@ -13,6 +13,10 @@ comment_status: open
 post_name: street-childrens-diary-kathmandu-nepal
 post_type: post
 ---
+<style>
+body {
+text-align: justify}
+</style>
 
 Once in my childhood, I asked my father the meaning of poverty when I didn’t get money for a picnic. He replied, “Poverty is not just scarce of money, it’s perfectly a relative word that differs from person to person”. He further said, “Poverty means basically inferiority or scarcity; you are in scarce of money so you think yourself poor, that’s it!”      
   

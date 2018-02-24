@@ -11,6 +11,19 @@ layout: page
     {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
     <h2 id="{{ this_word | cgi_escape }}" class="tag-title">
       #{{ this_word }}
+      
+      <script type="text/javascript">
+        if(xyz){
+          //check if the tag already exist in the, if exist increase the weight counter
+          // console.log
+          xyz.push({"{{ this_word }}"})
+        }  
+        else{
+          var xyz = [{"{{ this_word }}"}]
+        }
+      </script>
+   
+
     </h2>
     <!-- lists all posts corresponding to specific tag -->
     {% for post in site.tags[this_word] %}
@@ -52,9 +65,9 @@ layout: page
 </div>
 <h1> hello world </h2>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-<link rel="stylesheet" href="https://mistic100.github.io/jQCloud/dist/jqcloud2/dist/jqcloud.min.css">
-<script src="https://mistic100.github.io/jQCloud/dist/jqcloud2/dist/jqcloud.min.js"></script>
-<script src="https://mistic100.github.io/jQCloud/dist/demo-words.js"></script>
+<link rel="stylesheet" href="http://mistic100.github.io/jQCloud/dist/jqcloud2/dist/jqcloud.min.css">
+<script src="http://mistic100.github.io/jQCloud/dist/jqcloud2/dist/jqcloud.min.js"></script>
+<script src="http://mistic100.github.io/jQCloud/dist/demo-words.js"></script>
 
 <script type="text/javascript">
   var words = [
@@ -71,12 +84,19 @@ layout: page
 </script>
 
 <script>
-$('#demo').jQCloud(words, {
-  autoResize: true,
-  fontSize: {
-    max: 0.1,
-    min: 0.02
+  // loop through the xyz array and recalculate the weight of the item 
+  var renderList = [];
+  for (i in xyz) {
+    console.log(i, xyz[i]);
+    renderList
   }
-});
+    
+  $('#demo').jQCloud(xyz, {
+    autoResize: true,
+    fontSize: {
+      max: 0.1,
+      min: 0.02
+    }
+  });
 </script>
 
