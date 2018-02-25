@@ -2,7 +2,7 @@
 layout: post
 categories: [blog, ComputerScience]
 tags: [Eli Parser, Filter Bubble, Personalization]
-title: "Personalization versus Filter Bubble"
+title: "Personalization versus Filter Bubble: The influence of personalization on the quality of search queries"
 author: sdulal
 description: 
 post_id: 277
@@ -18,14 +18,14 @@ status: publish
 body {
 text-align: justify}
 </style>
-## The influence of personalization on the quality of search queries
+
 With growing amount of data on the Internet, the need for information retrieval systems
- i.e. search engines is inarguable. Moreover, to efficiently search such huge volumes of data, 
- these search engines use numerous smart techniques and algorithms. Perhaps the most famous 
- example is the PageRank algorithm to quantify the importance of a webpage. However, it was 
- soon realized that determining the importance of a webpage alone was not enough. It was equally 
- important to determine the relevancy (what the user exactly wants) of a webpage. It was Google 
- which pioneered a technique for the same: personalization.
+i.e. search engines is inarguable. Moreover, to efficiently search such huge volumes of data, 
+these search engines use numerous smart techniques and algorithms. Perhaps the most famous 
+example is the PageRank algorithm to quantify the importance of a webpage. However, it was 
+soon realized that determining the importance of a webpage alone was not enough. It was equally 
+important to determine the relevancy (what the user exactly wants) of a webpage. It was Google 
+which pioneered a technique for the same: personalization.
 
 Personalization in the context of search engines means to filter and re-rank search results based 
 on users’ interests and past experiences. Concretely, a programmer is more likely to mean the 
@@ -62,7 +62,7 @@ that it affects the top search results’ ranking.
 Another intimidating problem raised by filter bubble is the perception of quality in the search by a 
 personalized user. As the user’s personalized profile is maintained by news sites, online vendors, 
 social media, and search engines, they discern the search results as of high quality. Meanwhile, at 
-the same time users are completely unknown of what is hidden from them by programmed gatekeepers.    
+the same time users are completely unknown of what is hidden from them by programmed gatekeepers.
 
 Unarguably, personalization is a necessity for efficient and relevant search results but it promotes 
 these filter bubbles. Some search engines such as Duckduckgo market itself as free from filter bubbles 
