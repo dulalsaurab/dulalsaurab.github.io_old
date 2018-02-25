@@ -76,8 +76,9 @@ It has succeeded in creating the structured web content and has unequivocally br
 benefit to the users. But at the same time, it seems to violate the ultimate goal of internet i.e. 
 freedom in the quest for knowledge and information. 
 
-> Facebook’s CEO, Mark Zuckerberg says, “A squirrel dying in front of your house may be more relevant 
-o your interests right now than people dying in Africa” - one of the probable baselines for Facebook 
+**Facebook’s CEO, Mark Zuckerberg says,** 
+> “A squirrel dying in front of your house may be more relevant 
+to your interests right now than people dying in Africa” - one of the probable baselines for Facebook 
 tailored news feed. 
 
 In the specific sense, this may be very true and in fact maybe what we want to hear but, 
