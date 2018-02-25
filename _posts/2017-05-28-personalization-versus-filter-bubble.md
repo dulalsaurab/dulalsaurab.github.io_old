@@ -2,7 +2,7 @@
 layout: post
 categories: [blog, ComputerScience]
 tags: [Eli Parser, Filter Bubble, Personalization]
-title: "Personalization versus Filter Bubble: The influence of personalization on the quality of search queries"
+title: "Personalization versus Filter Bubble"
 author: sdulal
 description: 
 post_id: 277
@@ -18,7 +18,7 @@ status: publish
 body {
 text-align: justify}
 </style>
-
+## The influence of personalization on the quality of search queries
 With growing amount of data on the Internet, the need for information retrieval systems
  i.e. search engines is inarguable. Moreover, to efficiently search such huge volumes of data, 
  these search engines use numerous smart techniques and algorithms. Perhaps the most famous 
