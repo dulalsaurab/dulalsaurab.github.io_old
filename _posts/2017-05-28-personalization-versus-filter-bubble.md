@@ -12,6 +12,8 @@ post_name: personalization-versus-filter-bubble
 status: publish
 tags: [Eli Parser, Filter Bubble, Personalization]
 ---
+
+
 <style>
 body {
 text-align: justify}
