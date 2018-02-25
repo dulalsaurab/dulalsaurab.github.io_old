@@ -11,7 +11,6 @@ created_gmt: 2017/05/28 17:09:46
 comment_status: open
 post_name: personalization-versus-filter-bubble
 status: publish
-feature-img: "assets/img/bubble_2.png"
 ---
 ![Personalization Bubble](https://github.com/dulalsaurab/dulalsaurab.github.io/blob/master/assets/img/bubble_2.png?raw=true)
 
