@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description>The best way to experiment the world is to experiment yourself</description>
-    <pubDate>Sun, 25 Feb 2018 13:02:53 -0600</pubDate>
+    <pubDate>Sun, 25 Feb 2018 13:25:57 -0600</pubDate>
     
       <item>
         <title>test2</title>
@@ -457,18 +457,20 @@ on loop. Once the selection is done, the server program is executed first, and u
         <title>Personalization versus Filter Bubble: The influence of personalization on the quality of search queries</title>
         <link>/blog/computerscience/personalization-versus-filter-bubble/</link>
         <guid isPermaLink="true">/blog/computerscience/personalization-versus-filter-bubble/</guid>
-        <description>&lt;style&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;https://github.com/dulalsaurab/dulalsaurab.github.io/blob/master/assets/img/bubble_2.png?raw=true&quot; alt=&quot;Personalization Bubble&quot; /&gt;&lt;/p&gt;
+
+&lt;style&gt;
 body {
 text-align: justify}
 &lt;/style&gt;
 
 &lt;p&gt;With growing amount of data on the Internet, the need for information retrieval systems
- i.e. search engines is inarguable. Moreover, to efficiently search such huge volumes of data, 
- these search engines use numerous smart techniques and algorithms. Perhaps the most famous 
- example is the PageRank algorithm to quantify the importance of a webpage. However, it was 
- soon realized that determining the importance of a webpage alone was not enough. It was equally 
- important to determine the relevancy (what the user exactly wants) of a webpage. It was Google 
- which pioneered a technique for the same: personalization.&lt;/p&gt;
+i.e. search engines is inarguable. Moreover, to efficiently search such huge volumes of data, 
+these search engines use numerous smart techniques and algorithms. Perhaps the most famous 
+example is the PageRank algorithm to quantify the importance of a webpage. However, it was 
+soon realized that determining the importance of a webpage alone was not enough. It was equally 
+important to determine the relevancy (what the user exactly wants) of a webpage. It was Google 
+which pioneered a technique for the same: personalization.&lt;/p&gt;
 
 &lt;p&gt;Personalization in the context of search engines means to filter and re-rank search results based 
 on users’ interests and past experiences. Concretely, a programmer is more likely to mean the 
@@ -505,7 +507,7 @@ that it affects the top search results’ ranking.&lt;/p&gt;
 &lt;p&gt;Another intimidating problem raised by filter bubble is the perception of quality in the search by a 
 personalized user. As the user’s personalized profile is maintained by news sites, online vendors, 
 social media, and search engines, they discern the search results as of high quality. Meanwhile, at 
-the same time users are completely unknown of what is hidden from them by programmed gatekeepers.    &lt;/p&gt;
+the same time users are completely unknown of what is hidden from them by programmed gatekeepers.&lt;/p&gt;
 
 &lt;p&gt;Unarguably, personalization is a necessity for efficient and relevant search results but it promotes 
 these filter bubbles. Some search engines such as Duckduckgo market itself as free from filter bubbles 
@@ -519,9 +521,10 @@ It has succeeded in creating the structured web content and has unequivocally br
 benefit to the users. But at the same time, it seems to violate the ultimate goal of internet i.e. 
 freedom in the quest for knowledge and information.&lt;/p&gt;
 
+&lt;p&gt;&lt;strong&gt;Facebook’s CEO, Mark Zuckerberg says,&lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-  &lt;p&gt;Facebook’s CEO, Mark Zuckerberg says, “A squirrel dying in front of your house may be more relevant 
-o your interests right now than people dying in Africa” - one of the probable baselines for Facebook 
+  &lt;p&gt;“A squirrel dying in front of your house may be more relevant 
+to your interests right now than people dying in Africa” - one of the probable baselines for Facebook 
 tailored news feed.&lt;/p&gt;
 &lt;/blockquote&gt;
 
