@@ -5,15 +5,49 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description>The best way to experiment the world is to experiment yourself</description>
-    <pubDate>Sun, 25 Feb 2018 13:25:57 -0600</pubDate>
+    <pubDate>Mon, 05 Mar 2018 11:37:48 -0600</pubDate>
     
       <item>
-        <title>test2</title>
-        <link>/test2/sample-post/</link>
-        <guid isPermaLink="true">/test2/sample-post/</guid>
-        <description>
+        <title>Your Birthday Fragrance</title>
+        <link>/poems/distant-fragrance/</link>
+        <guid isPermaLink="true">/poems/distant-fragrance/</guid>
+        <description>&lt;style&gt;
+body {
+text-align: ;}
+&lt;/style&gt;
+
+&lt;p&gt;It flows incessantly and will forever&lt;br /&gt;
+ though the language is full of suggestions&lt;br /&gt;
+ in the way of language &lt;br /&gt;
+but they are all anonymous,&lt;br /&gt;
+ and it’s almost your music next to my bones&lt;br /&gt;
+I am feeling it deep inside, it’s first of yours without my presence &lt;br /&gt;
+after we meet, …. long after we departed &lt;br /&gt;
+I see the world have changed, mountains turned to sea&lt;br /&gt;
+land full of flowers, those cracks are gone, and beauty all around &lt;/p&gt;
+
+&lt;p&gt;these nights we hear the horses running in the rain &lt;br /&gt;
+it stops and the moon comes out and we are still here &lt;br /&gt;
+ the leaks in the roof go on dripping after the rain has passed &lt;br /&gt;
+ smell of ginger flowers slips through the dark house  &lt;br /&gt;
+down near the sea the slow heart of the beacon flashes  &lt;/p&gt;
+
+&lt;p&gt;the long way to you is still tied to me but it brought me to you  &lt;br /&gt;
+ I keep wanting to give you what is already your&lt;br /&gt;
+s it is the morning of the mornings together &lt;br /&gt;
+breath of summer oh my found one  &lt;br /&gt;
+the sleep in the same current and each waking to you&lt;/p&gt;
+
+&lt;p&gt;when I open my eyes you are what I wanted to see,” &lt;br /&gt;
+when I be with God you are what I wanted to wish,”    &lt;br /&gt;
+when I be gone you are where I wanted to reach”&lt;br /&gt;
+and… glimpse you cease your dream every day&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;― W.S. Merwin and Me&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h6 id=&quot;image-credit-tms-journal&quot;&gt;Image Credit: &lt;a href=&quot;https://sites.google.com/a/springfield.k12.or.us/tmsjournal15a/abstract-art&quot;&gt;TMS Journal&lt;/a&gt;&lt;/h6&gt;
 </description>
-        <pubDate>Tue, 20 Feb 2018 00:00:00 -0600</pubDate>
+        <pubDate>Mon, 05 Mar 2018 00:00:00 -0600</pubDate>
       </item>
     
       <item>
@@ -566,35 +600,6 @@ text-align: justify}
 &lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 29 Dec 2014 00:00:00 -0600</pubDate>
-      </item>
-    
-      <item>
-        <title>Sample post</title>
-        <link>/test1/sample-post/</link>
-        <guid isPermaLink="true">/test1/sample-post/</guid>
-        <description>&lt;p&gt;Consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. Praesent et diam eget libero egestas mattis sit amet vitae augue. Nam tincidunt congue enim, ut porta lorem lacinia consectetur. Donec ut libero sed arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut gravida lorem.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Consectetur adipiscing elit&lt;/li&gt;
-  &lt;li&gt;Donec a diam lectus&lt;/li&gt;
-  &lt;li&gt;Sed sit amet ipsum mauris&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Ut turpis felis, pulvinar a semper sed, adipiscing id dolor. Pellentesque auctor nisi id magna consequat sagittis. Curabitur dapibus enim sit amet elit pharetra tincidunt feugiat nisl imperdiet. Ut convallis libero in urna ultrices accumsan. Donec sed odio eros. Donec viverra mi quis quam pulvinar at malesuada arcu rhoncus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In rutrum accumsan ultricies. Mauris vitae nisi at sem facilisis semper ac in est.&lt;/p&gt;
-
-&lt;p&gt;Nunc diam velit, adipiscing ut tristique vitae, sagittis vel odio. Maecenas convallis ullamcorper ultricies. Curabitur ornare, ligula &lt;em&gt;semper consectetur sagittis&lt;/em&gt;, nisi diam iaculis velit, id fringilla sem nunc vel mi. Nam dictum, odio nec pretium volutpat, arcu ante placerat erat, non tristique elit urna et turpis. Quisque mi metus, ornare sit amet fermentum et, tincidunt et orci. Fusce eget orci a orci congue vestibulum.&lt;/p&gt;
-
-&lt;p&gt;Ut dolor diam, elementum et vestibulum eu, porttitor vel elit. Curabitur venenatis pulvinar tellus gravida ornare. Sed et erat faucibus nunc euismod ultricies ut id justo. Nullam cursus suscipit nisi, et ultrices justo sodales nec. Fusce venenatis facilisis lectus ac semper. Aliquam at massa ipsum. Quisque bibendum purus convallis nulla ultrices ultricies. Nullam aliquam, mi eu aliquam tincidunt, purus velit laoreet tortor, viverra pretium nisi quam vitae mi. Fusce vel volutpat elit. Nam sagittis nisi dui.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Suspendisse lectus leo, consectetur in tempor sit amet, placerat quis neque&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Etiam luctus porttitor lorem, sed suscipit est rutrum non. Curabitur lobortis nisl a enim congue semper. Aenean commodo ultrices imperdiet. Vestibulum ut justo vel sapien venenatis tincidunt.&lt;/p&gt;
-
-&lt;p&gt;Phasellus eget dolor sit amet ipsum dapibus condimentum vitae quis lectus. Aliquam ut massa in turpis dapibus convallis. Praesent elit lacus, vestibulum at malesuada et, ornare et est. Ut augue nunc, sodales ut euismod non, adipiscing vitae orci. Mauris ut placerat justo. Mauris in ultricies enim. Quisque nec est eleifend nulla ultrices egestas quis ut quam. Donec sollicitudin lectus a mauris pulvinar id aliquam urna cursus. Cras quis ligula sem, vel elementum mi. Phasellus non ullamcorper urna.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 30 Nov 2014 00:00:00 -0600</pubDate>
       </item>
     
       <item>
