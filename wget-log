@@ -1,0 +1,11 @@
+--2018-03-06 09:53:55--  http://www.espncricinfo.com/video/clip?id=22614089
+Resolving www.espncricinfo.com... 34.193.225.110, 34.197.153.172, 52.206.65.19
+Connecting to www.espncricinfo.com|34.193.225.110|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 84807 (83K) [text/html]
+Saving to: ‘clip?id=22614089’
+
+clip?id=22614089                                     0%[                                                                                                                 ]       0  --.-KB/s               clip?id=22614089                                   100%[================================================================================================================>]  82.82K  --.-KB/s    in 0.1s    
+
+2018-03-06 09:53:55 (726 KB/s) - ‘clip?id=22614089’ saved [84807/84807]
+
