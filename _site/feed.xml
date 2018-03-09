@@ -5,7 +5,56 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description>The best way to experiment the world is to experiment yourself</description>
-    <pubDate>Thu, 08 Mar 2018 20:26:45 -0600</pubDate>
+    <pubDate>Fri, 09 Mar 2018 16:58:42 -0600</pubDate>
+    
+      <item>
+        <title>ndn-cxx Code Style Checker for Local Environment</title>
+        <link>/ndn-code-style-in-local-environment/</link>
+        <guid isPermaLink="true">/ndn-code-style-in-local-environment/</guid>
+        <description>&lt;p&gt;This project repository : &lt;a href=&quot;https://github.com/dulalsaurab/ndn-cxx-code-style&quot;&gt;https://github.com/dulalsaurab/ndn-cxx-code-style&lt;/a&gt; &lt;br /&gt;
+This tool checks code against &lt;a href=&quot;https://named-data.net/doc/ndn-cxx/current/code-style.html&quot;&gt;ndn-cxx Code Style and Coding Guidelines&lt;/a&gt; for common mistakes.&lt;/p&gt;
+
+&lt;h3 id=&quot;prerequisites&quot;&gt;Prerequisites&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;node&lt;/strong&gt; is required to execute &lt;strong&gt;.js&lt;/strong&gt; file in local env&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;e.g. node process.cli.js
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Node installation guide for MAC: &lt;a href=&quot;https://nodejs.org/en/download/&quot;&gt;https://nodejs.org/en/download/&lt;/a&gt; &lt;br /&gt;
+Node installation guide for Linux: &lt;a href=&quot;https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions&quot;&gt;https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions&lt;/a&gt;&lt;br /&gt;
+&lt;strong&gt;Note:&lt;/strong&gt; apt-get install old version of node, make sure to follow the instruction above.&lt;/p&gt;
+
+&lt;h3 id=&quot;installing&quot;&gt;Installing&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Clone this repo on your local machine, &lt;code class=&quot;highlighter-rouge&quot;&gt;git clone --depth 1 https://github.com/dulalsaurab/ndn-cxx-code-style.git&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cd ndn-cxx-code-style&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;run command &lt;code class=&quot;highlighter-rouge&quot;&gt;./init-script.sh&lt;/code&gt;&lt;br /&gt;
+     This will create an alias for code-style in &lt;em&gt;bashrc&lt;/em&gt; or &lt;em&gt;bash_profile&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;run &lt;code class=&quot;highlighter-rouge&quot;&gt;source ~/.bashrc&lt;/code&gt; - for linux , &lt;code class=&quot;highlighter-rouge&quot;&gt;source ~/.bash_profile&lt;/code&gt; for mac&lt;/li&gt;
+  &lt;li&gt;cd to your git repo, and you can run &lt;strong&gt;&lt;em&gt;code-style&lt;/em&gt;&lt;/strong&gt; command from your terminal&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;code-style
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;IMPORTANT!&lt;/strong&gt; code-style bot by default assumes that it’s executed from &lt;strong&gt;git repo&lt;/strong&gt;. If you want to execute it from outside the repo, please open &lt;em&gt;process.cli.js&lt;/em&gt; file and change the configuration as advised there.&lt;/p&gt;
+
+&lt;h3 id=&quot;running-the-tests&quot;&gt;Running the tests&lt;/h3&gt;
+
+&lt;p&gt;Assuming you are inside a git repo, simple execute &lt;code class=&quot;highlighter-rouge&quot;&gt;code-style&lt;/code&gt; to view the result&lt;/p&gt;
+
+&lt;p&gt;Sample output:
+&lt;img src=&quot;https://github.com/dulalsaurab/ndn-cxx-code-style/blob/master/code-style-bot-example?raw=true&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;acknowledgments&quot;&gt;Acknowledgments&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ashlesh Gawande&lt;/li&gt;
+  &lt;li&gt;Junxiao Shi&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 09 Mar 2018 00:00:00 -0600</pubDate>
+      </item>
     
       <item>
         <title>Do you need help?</title>

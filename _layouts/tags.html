@@ -13,14 +13,19 @@ layout: page
       #{{ this_word }}
       
       <script type="text/javascript">
-        if(xyz){
-          //check if the tag already exist in the, if exist increase the weight counter
-          // console.log
-          xyz.push({"{{ this_word }}"})
-        }  
-        else{
-          var xyz = [{"{{ this_word }}"}]
-        }
+        try {
+                if(xyz){
+                      //check if the tag already exist in the, if exist increase the weight counter
+                      // console.log
+                      xyz.push({"{{ this_word }}"})
+                    }  
+                    else{
+                      var xyz = [{"{{ this_word }}"}]
+                    }
+            }
+            catch(err) {
+                document.getElementById("demo").innerHTML = err.message;
+            }
       </script>
    
 
@@ -84,19 +89,20 @@ layout: page
 </script>
 
 <script>
+  console.log(xyz);
   // loop through the xyz array and recalculate the weight of the item 
-  var renderList = [];
-  for (i in xyz) {
-    console.log(i, xyz[i]);
-    renderList
-  }
+  // var renderList = [];
+  // for (i in xyz) {
+  //   console.log(i, xyz[i]);
+  //   renderList.push();
+  // }
     
-  $('#demo').jQCloud(xyz, {
-    autoResize: true,
-    fontSize: {
-      max: 0.1,
-      min: 0.02
-    }
-  });
+  // $('#demo').jQCloud(xyz, {
+  //   autoResize: true,
+  //   fontSize: {
+  //     max: 0.1,
+  //     min: 0.02
+  //   }
+  // });
 </script>
 
