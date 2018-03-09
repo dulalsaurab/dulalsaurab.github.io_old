@@ -2,6 +2,7 @@
 layout: post
 title: ndn-cxx Code Style Checker for Local Environment
 tags: [NDN, CodeStyle]
+categories: ComputerScience
 ---
 This project repository : <https://github.com/dulalsaurab/ndn-cxx-code-style>   
 This tool checks code against [ndn-cxx Code Style and Coding Guidelines](https://named-data.net/doc/ndn-cxx/current/code-style.html) for common mistakes.
