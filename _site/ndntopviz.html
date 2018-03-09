@@ -12,13 +12,13 @@
       margin: 0;
       width: 100%;
       height: 100%;
-      overflow-y: scroll; 
+      /*overflow-y: scroll; */
     }
 
     #mynetwork {
-      width: 96%;
+      width: 100%;
       height: 100%;
-      margin: 1.5%;
+      /*margin: 1.5%;*/
     }
 </style>
   <script language="JavaScript" type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
@@ -176,6 +176,8 @@
           google.charts.setOnLoadCallback(drawTable);
 
           function drawTable() {
+            // #(mynetwork)
+            
             var data = new google.visualization.DataTable();
             data.addColumn('string', 'Node A');
             data.addColumn('string', 'Node B');
@@ -185,25 +187,43 @@
                   [node_delays[i][0].toUpperCase(),  node_delays[i][1].toUpperCase(), node_delays[i][2]+" ms"]
                 ]);    
             }
-            
-            console.log(node_delays);
             var table = new google.visualization.Table(document.getElementById('table_div'));
-
             table.draw(data, {showRowNumber: true, width: '100%', height: '100%'});
           }
         </script>    
-
+<script type="text/javascript">
+    function showHide(a){
+        console.log(a);
+        if (a == 1){
+            $( "#graph" ).hide();
+            $("#table").show();
+        }
+        else if(a==2){
+            $( "#graph" ).show();
+            $("#table").hide();   
+        }
+    }
+</script>
 </head>
 
 <body>
-<h1><center>NDN(Name Data Networking) Testbed Node-Cost Viz</center></h1>
-<div id="mynetwork" data-gr-c-s-loaded="true" style="border: 2px solid #dedbdb;">
+<!-- <button>Click</button><h1><center>NDN(Name Data Networking) Testbed Node-Cost Viz</center></h1> -->
+<div id="graph" style="width: 100%; height: 100%;">
+<input type="button" class="click" onclick="showHide(1)" id="click" value="Table View" style=" height: 20px; text-align: center; color: white; background: #23b7e5; font-size: 13px; border-color: #23b7e5; border-radius:2px; padding: 0px; "> 
+<center><h3><label class="control-label" style="">NDN(Name Data Networking) Testbed Node-Cost Viz</label></h3></center>
+
+<!-- <div id="mynetwork" data-gr-c-s-loaded="true" style="border: 2px solid #dedbdb;"> -->
+    <div id="mynetwork" data-gr-c-s-loaded="true" style="display: block;">
     <div class="vis-network" tabindex="900" style="position: relative; overflow: scroll; touch-action: pan-y; user-select: none; -webkit-user-drag: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); width: 100%; height: 100%;">
         <canvas style="position: relative; touch-action: none; user-select: none; -webkit-user-drag: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); width: 100%; height: 100%;" width="2880" height="1518">
         </canvas>
     </div>
 </div>
-<h1><center> Node - Node Cost </center></h1>
-<div id="table_div"></div>
+</div>
+<div id="table" style="display: none;">
+    <input type="button" class="click" onclick="showHide(2)" id="click" value="Graph View" style=" height: 20px; text-align: center; color: white; background: #23b7e5; font-size: 13px; border-color: #23b7e5; border-radius:2px; padding: 0px; "> 
+    <center><h3><label class="control-label" style="">Node - Node Cost</label></h3></center>
+    <div id="table_div"></div>
+</div>
 </body>
 </html>
