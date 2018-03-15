@@ -50,7 +50,7 @@ Let’s us assume the name of eight cubes which is constructed form the internal
 *left_top_front, left_top_back, left_down_front, left_down_back, right_top_front, right_top_back, 
 right_down_front, right_down_back*. 
 Suppose the length of the parent cube is *“l”* and the cube with its vertex are taken from the above figure. 
-Below case if for the cube being at the origin but for the actual practice *Xmix, Ymin* ,and *Zmin* is added to the origin. 
+Below case if for the cube being at the origin but for the actual practice *Xmix, Ymin* , *Zmin* is added to the origin. 
 Now the minimum and maximum coordinate of the child cube can be obtain as follow   
 ```left_top_front = (m6, m5) = ((0, l/2, 0), (l/2.l, l/2))```      
 ```left_top_back = (m13, m3) = ((0, l/2, l/2), (l/2.l, l))```     
