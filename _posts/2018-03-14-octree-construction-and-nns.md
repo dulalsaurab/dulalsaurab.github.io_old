@@ -1,6 +1,6 @@
 ---
 layout: post
-title: occtree Construction and Nearest Neighborhood Search(NNS)
+title: octree Construction and Nearest Neighborhood Search(NNS)
 tags: [NNS, Algorithm, Particle Search, octree]
 categories: ComputerScience
 ---
