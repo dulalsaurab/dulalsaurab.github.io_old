@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Markdown CheatSheet
-tags: [UPD, TCP, Network, Data Transfer, Python]
 categories: ComputerScience
 title: Reliable data transfer using UDP 
 author: Saurab Dulal
@@ -11,6 +10,7 @@ created_gmt: 2017/12/27 18:21:34
 comment_status: open
 post_name: street-childrens-diary-kathmandu-nepal
 post_type: post
+tags: [UPD, TCP, Network, Data Transfer, Python]
 ---
 <style>
 body {

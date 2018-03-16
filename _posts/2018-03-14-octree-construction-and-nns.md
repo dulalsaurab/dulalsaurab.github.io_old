@@ -1,8 +1,9 @@
 ---
 layout: post
 title: octree Construction and Nearest Neighborhood Search(NNS)
-tags: [NNS, Algorithm, Particle Search, octree]
 categories: ComputerScience
+author: Saurab Dulal
+tags: [NNS, Algorithm, Particle Search, octree]
 ---
 
 <style>

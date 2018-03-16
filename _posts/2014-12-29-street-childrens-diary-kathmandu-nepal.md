@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Markdown CheatSheet
-tags: [test, markdown]
 categories: blog
 title: Street Children's Diary - Kathmandu Nepal
 link: http://www.sdulal.com/2014/12/29/street-childrens-diary-kathmandu-nepal/
@@ -11,6 +10,7 @@ created: 2014/12/29 18:21:34
 created_gmt: 2014/12/29 18:21:34
 comment_status: open
 post_name: street-childrens-diary-kathmandu-nepal
+tags: [test, markdown]
 ---
 
 <style>

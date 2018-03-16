@@ -1,9 +1,8 @@
 ---
 layout: post
 categories: [blog, ComputerScience]
-tags: [Eli Parser, Filter Bubble, Personalization]
 title: "Personalization versus Filter Bubble: The influence of personalization on the quality of search queries"
-author: sdulal
+author: Saurab Dulal
 description: 
 post_id: 277
 created: 2017/05/28 17:09:46
@@ -11,6 +10,7 @@ created_gmt: 2017/05/28 17:09:46
 comment_status: open
 post_name: personalization-versus-filter-bubble
 status: publish
+tags: [Eli Parser, Filter Bubble, Personalization]
 ---
 ![Personalization Bubble](https://github.com/dulalsaurab/dulalsaurab.github.io/blob/master/assets/img/bubble_2.png?raw=true)
 
