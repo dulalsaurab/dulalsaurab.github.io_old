@@ -2,6 +2,18 @@
 from math import factorial
 from decimal import Decimal, getcontext
 
+
+
+def check_prime():
+    pass
+
+def print_ulm_spiral(num):
+    
+    pass 
+
+
+
+
 def piGenerator(x):
     # num is no of digits you want to generate PI for
 
