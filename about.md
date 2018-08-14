@@ -17,4 +17,4 @@ Technically, I am a Computer Engineer with functional and technical expertise in
 
 Email: [dulal.saurab@gmail.com](mailto:dulal.saurab@gmail.com)
 
-My Resume: [https://github.com/dulalsaurab/dulalsaurab.github.io/blob/master/assets/Resume_Saurab_Dulal_ENGL_3601.pdf]
+[My Resume: ](https://github.com/dulalsaurab/dulalsaurab.github.io/blob/master/assets/Resume_Saurab_Dulal_ENGL_3601.pdf)
